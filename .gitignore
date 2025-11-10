@@ -61,3 +61,6 @@ env/
 
 # Logs
 *.log
+
+# ComfyUI Registry publishing artifacts
+node.zip
