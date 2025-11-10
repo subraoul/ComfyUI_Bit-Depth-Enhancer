@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "comfyui-bit-depth-enhancement"
 version = "0.1.0"
-description = "Classical bit-depth enhancement for professional cinematography workflows"
+description = "Bit-depth enhancement and banding removal with classical and deep learning methods"
 requires-python = ">=3.9"
 
 dependencies = [
@@ -23,5 +23,5 @@ repository = "https://github.com/subraoul/ComfyUI_Bit-Depth-Enhancer"
 include = ["bit_depth_enhancement*"]
 
 [tool.comfy]
-PublisherId = "raoul-ubuntu"
+PublisherId = "subraoul"
 DisplayName = "Bit Depth Enhancement"
