@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "comfyui-bit-depth-enhancement"
-version = "0.1.0"
+name = "comfyui-bit-depth-enhancer"
+version = "0.1.1"
 description = "Bit-depth enhancement and banding removal with classical and deep learning methods"
 requires-python = ">=3.9"
 
@@ -24,4 +24,4 @@ include = ["bit_depth_enhancement*"]
 
 [tool.comfy]
 PublisherId = "subraoul"
-DisplayName = "Bit Depth Enhancement"
+DisplayName = "Bit Depth Enhancer"
