@@ -1,4 +1,4 @@
-# ComfyUI Bit Depth Enhancement
+# ComfyUI Bit Depth Enhancer
 
 Custom nodes for bit-depth enhancement and banding removal in ComfyUI.
 
