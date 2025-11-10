@@ -97,7 +97,7 @@ Trained on 51,490 pairs of pristine and banded image patches (256×256). Two mod
 
 4. Restart ComfyUI
 
-**Note:** This package is not yet published to the ComfyUI Registry. Manual installation only for now.
+**Note:** This package is published to the ComfyUI Registry! You can also install manually following the instructions below.
 
 ### Dependencies
 - Python 3.9+
